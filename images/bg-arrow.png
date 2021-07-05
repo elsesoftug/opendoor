@@ -82,7 +82,7 @@ var giveApiSettings = {"root":"https:\/\/www.gavias-theme.com\/wp\/halpes\/wp-js
 <li id="menu-item-575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-575"><a href="#">Causes single<span class="caret"></span></a><ul class="submenu-inner ">
 <li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-576"><a href="https://www.gavias-theme.com/wp/halpes/donations/raise-fund-for-clean-healthy-water/">Reveal Upon Click</a></li>
 <li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href="https://www.gavias-theme.com/wp/halpes/donations/supporting-lifeline-charity-group/">Modal Window Upon Click</a></li>
-<li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href="https://www.gavias-theme.com/wp/halpes/donations/charity-build-school-for-poor-children/">Show One Page</a></li>
+<li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href=""education"/">Show One Page</a></li>
 <li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-640"><a href="https://www.gavias-theme.com/wp/halpes/donations/new-clothes-for-highland-children/">Multi-Step Donation Form</a></li></ul>
 </li></ul>
 </li>
@@ -128,7 +128,7 @@ var giveApiSettings = {"root":"https:\/\/www.gavias-theme.com\/wp\/halpes\/wp-js
 <a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest elementor-repeater-item-2f961b7" href="https://www.pinterest.com/envato/" target="_blank">
 <span class="elementor-screen-only">Pinterest</span>
 <i class="fab fa-pinterest"></i>		</a></div></div></div></div><div class="elementor-element elementor-element-69d21246 elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="69d21246" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper">
-<a href="https://www.gavias-theme.com/wp/halpes/donations/charity-build-school-for-poor-children/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<a href=""education"/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 <span class="elementor-button-content-wrapper">
 <span class="elementor-button-icon elementor-align-icon-left">
 <i aria-hidden="true" class=" las la-heart"></i>		</span>
@@ -150,7 +150,7 @@ var giveApiSettings = {"root":"https:\/\/www.gavias-theme.com\/wp\/halpes\/wp-js
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-575"><a href="#">Causes single<span class="caret"></span></a><ul class="submenu-inner ">
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-576"><a href="https://www.gavias-theme.com/wp/halpes/donations/raise-fund-for-clean-healthy-water/">Reveal Upon Click</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href="https://www.gavias-theme.com/wp/halpes/donations/supporting-lifeline-charity-group/">Modal Window Upon Click</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href="https://www.gavias-theme.com/wp/halpes/donations/charity-build-school-for-poor-children/">Show One Page</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href=""education"/">Show One Page</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-640"><a href="https://www.gavias-theme.com/wp/halpes/donations/new-clothes-for-highland-children/">Multi-Step Donation Form</a></li></ul>
 </li></ul>
 </li>
