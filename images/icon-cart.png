@@ -81,7 +81,7 @@ var giveApiSettings = {"root":"https:\/\/www.gavias-theme.com\/wp\/halpes\/wp-js
 <li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://www.gavias-theme.com/wp/halpes/causes-grid/">Causes Grid</a></li>
 <li id="menu-item-575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-575"><a href="#">Causes single<span class="caret"></span></a><ul class="submenu-inner ">
 <li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-576"><a href="https://www.gavias-theme.com/wp/halpes/donations/raise-fund-for-clean-healthy-water/">Reveal Upon Click</a></li>
-<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href="https://www.gavias-theme.com/wp/halpes/donations/supporting-lifeline-charity-group/">Modal Window Upon Click</a></li>
+<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href=""Clean water"">Modal Window Upon Click</a></li>
 <li id="menu-item-577" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href=""education"/">Show One Page</a></li>
 <li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-640"><a href="https://www.gavias-theme.com/wp/halpes/donations/new-clothes-for-highland-children/">Multi-Step Donation Form</a></li></ul>
 </li></ul>
@@ -149,7 +149,7 @@ var giveApiSettings = {"root":"https:\/\/www.gavias-theme.com\/wp\/halpes\/wp-js
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://www.gavias-theme.com/wp/halpes/causes-grid/">Causes Grid</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-575"><a href="#">Causes single<span class="caret"></span></a><ul class="submenu-inner ">
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-576"><a href="https://www.gavias-theme.com/wp/halpes/donations/raise-fund-for-clean-healthy-water/">Reveal Upon Click</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href="https://www.gavias-theme.com/wp/halpes/donations/supporting-lifeline-charity-group/">Modal Window Upon Click</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-578"><a href=""Clean water"">Modal Window Upon Click</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-577"><a href=""education"/">Show One Page</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-give_forms menu-item-640"><a href="https://www.gavias-theme.com/wp/halpes/donations/new-clothes-for-highland-children/">Multi-Step Donation Form</a></li></ul>
 </li></ul>

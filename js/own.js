@@ -1,5 +1,6 @@
 window.onload = function includeFooter() {
     includeHeader();
+    includeRecentGives();
     document.getElementById('wp-footer').innerHTML = `
 	<!-- footer-area-start -->
     <div class="footer-main">
@@ -687,5 +688,207 @@ function includeHeader() {
                 </div>
             </div>
     <!-- header-start -->`
+
+}
+
+function includeRecentGives() {
+    document.getElementById('recent_give-2').innerHTML = `<h3 class="widget-title"><span>Recent Gives</span></h3>
+    <div class=give-list>
+        <div class=item>
+            <div class=give-block>
+                <div
+                    class="post-412 give_forms type-give_forms status-publish has-post-thumbnail give_forms_category-Hygien-charity">
+                    <div class=form-image>
+                        <div class=content-inner>
+                            <a class=link-content
+                                href="health"
+                                Health /><img width=600 height=445
+                                src="images/donate-9-600x445.jpg"
+                                class="attachment-halpes_medium size-halpes_medium wp-post-image"
+                                alt loading=lazy></a>
+                            <div class=give-gallery-post>
+                                <div class=lightGallery>
+                                    <div class=image-item id=412>
+                                        <a href="education"
+                                            class=zoomGallery
+                                            data-elementor-lightbox-slideshow=gallery-2525984566>
+                                            <span class=icon-expand><i
+                                                    class="fa fa-camera"></i></span>
+                                            <img src="images/donate-6-180x180.jpg"
+                                                class=hidden
+                                                alt="Raise Fund for Clean &#038; Healthy Hygien">
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href="images/donate-5.jpg"
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-2525984566>
+                                            <img src="images/donate-5-180x180.jpg"
+                                                alt="Raise Fund for Clean &#038; Healthy Hygien"
+                                                class=hidden>
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href="images/donate-4.jpg"
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-2525984566>
+                                            <img src="images/donate-4-180x180.jpg"
+                                                alt="Raise Fund for Clean &#038; Healthy Hygien"
+                                                class=hidden>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=give-video>
+                                <a class="video-link popup-video"
+                                    href="https://www.youtube.com/watch?v=xiiMcPt-WmQ"><i
+                                        class="fa fa-video-camera"></i></a>
+                            </div>
+                        </div>
+                        <div class=give-form-category><a href=#
+                                title="View all campaign in Hygien Charity">Menstrual
+                                Health
+                                Charity</a></div>
+                    </div>
+                    <div class=give-form-content>
+                        <div class=gf-content-inner>
+                            <h2 class="title"><a
+                                    href="health"
+                                    Health />Raise
+                                Fund for Clean &#038; Healthy Hygien</a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=item>
+            <div class=give-block>
+                <div
+                    class="post-411 give_forms type-give_forms status-publish has-post-thumbnail give_forms_category-Hygien-charity">
+                    <div class=form-image>
+                        <div class=content-inner>
+                            <a class=link-content
+                                href="education" /><img
+                                width=600 height=445
+                                src="images/donate-8-600x445.jpg"
+                                class="attachment-halpes_medium size-halpes_medium wp-post-image"
+                                alt loading=lazy></a>
+                            <div class=give-gallery-post>
+                                <div class=lightGallery>
+                                    <div class=image-item id=411>
+                                        <a href="images/donate-7.jpg"
+                                            class=zoomGallery
+                                            data-elementor-lightbox-slideshow=gallery-3332737094>
+                                            <span class=icon-expand><i
+                                                    class="fa fa-camera"></i></span>
+                                            <img src="images/donate-7-180x180.jpg"
+                                                class=hidden alt="Hygien">
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href="education"
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-3332737094>
+                                            <img src="images/donate-6-180x180.jpg"
+                                                alt="Hygien" class=hidden>
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href="images/donate-5.jpg"
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-3332737094>
+                                            <img src="images/donate-5-180x180.jpg"
+                                                alt="Hygien" class=hidden>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=give-video>
+                                <a class="video-link popup-video"
+                                    href="https://www.youtube.com/watch?v=xiiMcPt-WmQ"><i
+                                        class="fa fa-video-camera"></i></a>
+                            </div>
+                        </div>
+                        <div class=give-form-category><a href=#
+                                title="View all campaign in Hygien Charity">Education for poor children
+                                </a></div>
+                    </div>
+                    <div class=give-form-content>
+                        <div class=gf-content-inner>
+                            <h2 class="title"><a
+                                    href="education" />Open Door Mission
+                                build school for poor children</a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class=item>
+            <div class=give-block>
+                <div
+                    class="post-410 give_forms type-give_forms status-publish has-post-thumbnail give_forms_category-ace-charity">
+                    <div class=form-image>
+                        <div class=content-inner>
+                            <a class=link-content
+                                href="Clean water" /><img
+                                width=600 height=445
+                                src="images/donate-7-600x4452.jpg"
+                                class="attachment-halpes_medium size-halpes_medium wp-post-image"
+                                alt loading=lazy></a>
+                            <div class=give-gallery-post>
+                                <div class=lightGallery>
+                                    <div class=image-item id=410>
+                                        <a href=https://www.opendoormissionusa.org/images/donate-4-600x445.jpg
+                                            class=zoomGallery
+                                            data-elementor-lightbox-slideshow=gallery-3351712424>
+                                            <span class=icon-expand><i
+                                                    class="fa fa-camera"></i></span>
+                                            <img src=https://www.opendoormissionusa.org/images/donate-4-180x180.jpg
+                                                class=hidden
+                                                alt="Supporting Lifeline charity group">
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href=https://www.opendoormissionusa.org/images/donate-3.jpg
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-3351712424>
+                                            <img src=https://www.opendoormissionusa.org/images/donate-3-180x180.jpg
+                                                alt="Supporting Lifeline charity group"
+                                                class=hidden>
+                                        </a>
+                                    </div>
+                                    <div class=image-item>
+                                        <a href=https://www.opendoormissionusa.org/images/donate-2.jpg
+                                            class="zoomGallery hidden"
+                                            data-elementor-lightbox-slideshow=gallery-3351712424>
+                                            <img src=https://www.opendoormissionusa.org/donate-2-180x180.jpg
+                                                alt="Supporting Lifeline charity group"
+                                                class=hidden>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=give-video>
+                                <a class="video-link popup-video"
+                                    href="https://www.youtube.com/watch?v=xiiMcPt-WmQ"><i
+                                        class="fa fa-video-camera"></i></a>
+                            </div>
+                        </div>
+                        <div class=give-form-category><a
+                                href=/
+                                title="View all campaign in Ace Charity">Clean Water Charity</a>
+                        </div>
+                    </div>
+                    <div class=give-form-content>
+                        <div class=gf-content-inner>
+                            <h2 class="title"><a
+                                    href="Clean water" />Supporting
+                                    Clean Water for poor children</a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>`
 
 }
